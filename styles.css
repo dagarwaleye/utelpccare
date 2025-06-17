@@ -38,6 +38,16 @@ body {
 
 #header nav ul li a:hover {
     color: #A3FF12;
+.testimonial {
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.testimonial:hover {
+  transform: translateY(-5px);
+}
+
+    
 }
 
 /* Hero Section */
