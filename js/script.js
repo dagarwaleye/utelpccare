@@ -51,8 +51,7 @@ const heroImages = [
     'images/hero-image.jpg',  // Replace with your own images
     'images/laptop-screen-replacement.jpg',
     'images/data-recovery.jpg'
-    'images/virus-removal.jpg'
-];
+    ];
 
 let currentIndex = 0;
 
