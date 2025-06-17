@@ -61,8 +61,8 @@ function changeHeroImage() {
     currentIndex = (currentIndex + 1) % heroImages.length;
 }
 
-// Change the image every 5 seconds
-setInterval(changeHeroImage, 5000);
+// Change the image every 3 seconds
+setInterval(changeHeroImage, 3000);
 
 // Optionally, change the image on page load
 changeHeroImage();
